@@ -1,0 +1,5 @@
+{
+  "name": "AI Logo Generator",
+  "description": "Generate modern logos from detailed text descriptions using AI. This application leverages the Imagen 2 model to create multiple design variations based on your creative brief.",
+  "requestFramePermissions": []
+}
